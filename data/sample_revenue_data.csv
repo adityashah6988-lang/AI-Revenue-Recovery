@@ -1,0 +1,11 @@
+customer_id,customer_name,invoice_amount,payment_status,days_overdue
+C001,Customer A,15000,Paid,0
+C002,Customer B,25000,Overdue,45
+C003,Customer C,18000,Paid,0
+C004,Customer D,32000,Overdue,75
+C005,Customer E,12000,Overdue,20
+C006,Customer F,45000,Paid,0
+C007,Customer G,28000,Overdue,60
+C008,Customer H,9000,Paid,0
+C009,Customer I,38000,Overdue,90
+C010,Customer J,22000,Overdue,30
